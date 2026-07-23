@@ -88,14 +88,15 @@ const API_KEY = "YOUR_API_KEY";
 
 ## 📷 Application Preview
 
-Search city by name
-View current temperature
-Check humidity and wind speed
-Responsive weather interface
+1.Search city by name
+2.View current temperature
+3.Check humidity and wind speed
+4.Responsive weather interface
 
 ---
 
 ## 🎯 Future Enhancements
+
 -📍 Current location weather
 -🌅 Sunrise and sunset timings
 -📅 5-day weather forecast
@@ -105,7 +106,7 @@ Responsive weather interface
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 ## Y. Varshith
 B.Tech – Computer Science & Engineering (AI & ML)
