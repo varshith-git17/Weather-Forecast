@@ -10,14 +10,14 @@ The Weather Forecast Web Application provides real-time weather information thro
 
 ## ✨ Features
 
--🌍 Search weather by city name
--🌡️ Real-time temperature display
--☁️ Dynamic weather condition icons
--💧 Humidity information
--💨 Wind speed details
--❌ Invalid city name error handling
--📱 Responsive design for desktop and mobile
--🎨 Modern and attractive user interface
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature display
+- ☁️ Dynamic weather condition icons
+- 💧 Humidity information
+- 💨 Wind speed details
+- ❌ Invalid city name error handling
+- 📱 Responsive design for desktop and mobile
+- 🎨 Modern and attractive user interface
 
 ---
 
