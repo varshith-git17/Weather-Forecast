@@ -9,6 +9,7 @@ A modern and responsive Weather Forecast Web Application built using HTML, CSS, 
 The Weather Forecast Web Application provides real-time weather information through a simple and user-friendly interface. Users can enter a city name to view current weather details such as temperature, humidity, wind speed, and weather conditions. The application fetches live weather data from the OpenWeatherMap API and displays it dynamically.
 
 ## ✨ Features
+
 -🌍 Search weather by city name
 -🌡️ Real-time temperature display
 -☁️ Dynamic weather condition icons
