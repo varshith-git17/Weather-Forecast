@@ -23,10 +23,10 @@ The Weather Forecast Web Application provides real-time weather information thro
 
 ## 🛠️ Technologies Used
 
--HTML5
--CSS3
--JavaScript (ES6)
--OpenWeatherMap API
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- OpenWeatherMap API
 
 ---
 
@@ -54,11 +54,11 @@ The Weather Forecast Web Application provides real-time weather information thro
 
 ## ⚙️ How It Works
 
-Open the application in your browser.
-Enter a city name in the search box.
-Click the search button.
-The application sends a request to the OpenWeatherMap API.
-Weather information is fetched and displayed instantly.
+- Open the application in your browser.
+- Enter a city name in the search box.
+- Click the search button.
+- The application sends a request to the OpenWeatherMap API.
+- Weather information is fetched and displayed instantly.
 
 ## 🚀 Installation
 
@@ -88,21 +88,21 @@ const API_KEY = "YOUR_API_KEY";
 
 ## 📷 Application Preview
 
-1.Search city by name
-2.View current temperature
-3.Check humidity and wind speed
-4.Responsive weather interface
+1. Search city by name
+2. View current temperature
+3. Check humidity and wind speed
+4. Responsive weather interface
 
 ---
 
 ## 🎯 Future Enhancements
 
--📍 Current location weather
--🌅 Sunrise and sunset timings
--📅 5-day weather forecast
--🌙 Dark/Light mode
--🌡️ Celsius/Fahrenheit toggle
--🕒 Recent search history
+- 📍 Current location weather
+- 🌅 Sunrise and sunset timings
+- 📅 5-day weather forecast
+- 🌙 Dark/Light mode
+- 🌡️ Celsius/Fahrenheit toggle
+- 🕒 Recent search history
 
 ---
 
